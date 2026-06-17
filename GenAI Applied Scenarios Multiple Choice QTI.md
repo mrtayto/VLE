@@ -1,3 +1,11 @@
 QTI 2.1 question bank files
 
-In LEARN, students complete a very short ‘learning module’ that threads through these materials using a bank o applied scenarios multiple choice questions in QTI 2.1 (works with LEARN). The learning module teaches students how to differentiate between GenAI, AI and non-GDPR-compliant ware. It advocates the use of [https://elm.edina.ac.uk/elm/elm](https://elm.edina.ac.uk/elm/elm "https://elm.edina.ac.uk/elm/elm") and its API over other options while supporting not using AI for environmental and ethical reasons. I have put all of the QTI 2.1 files in Github as OERs so anyone can use it anywhere. So colleagues can mod it if they want to. https://github.com/mrtayto/VLE/blob/6166b406482a11c5b6204572cdffd9f218115faf/GenAI%20Applied%20Scenarios%20Multiple%20Choice%20QTI.zip
+In Blackboard LEARN Ultra, students complete a very short ‘learning module’ that threads through these materials using a bank of applied scenarios multiple choice questions in QTI 2.1. 
+
+The learning module teaches students how to differentiate between GenAI, AI and non-GDPR-compliant ware. 
+
+It advocates the use of [https://elm.edina.ac.uk/elm/elm](https://elm.edina.ac.uk/elm/elm "https://elm.edina.ac.uk/elm/elm") and its API over other options while supporting not using AI for environmental and ethical reasons. 
+
+The QTI 2.1 files are here Github as OERs so anyone can use them anywhere.  
+
+You can mod it if you want to. 
