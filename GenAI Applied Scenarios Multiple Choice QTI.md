@@ -8,4 +8,6 @@ It advocates the use of [https://elm.edina.ac.uk/elm/elm](https://elm.edina.ac.
 
 The QTI 2.1 files are here Github as OERs so anyone can use them anywhere.  
 
-You can mod it if you want to. 
+You can mod it if you want to, following the terms of this CC licence: 
+
+Prof Neil Mulholland 2026 Attribution-NonCommercial-ShareAlike 4.0 International https://creativecommons.org/licenses/by-nc-sa/4.0
